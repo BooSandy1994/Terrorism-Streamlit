@@ -1,0 +1,16 @@
+gname,attacktype1_txt,weaptype1_txt,counts,full_name
+ISIL,Bombing,Explosives,3619,Islamic State of Iraq and the Levant (ISIL)
+Taliban,Bombing,Explosives,2858,Taliban
+SL,Bombing,Explosives,2065,Shining Path (SL)
+Taliban,Armed Assault,Firearms,1986,Taliban
+FMLN,Armed Assault,Firearms,1517,Farabundo Marti National Liberation Front (FMLN)
+FMLN,Bombing,Explosives,1338,Farabundo Marti National Liberation Front (FMLN)
+Al-Shabaab,Bombing,Explosives,1207,Al-Shabaab
+ETA,Bombing,Explosives,1171,Basque Fatherland and Freedom (ETA)
+IRA,Bombing,Explosives,1121,Irish Republican Army (IRA)
+SL,Armed Assault,Firearms,1056,Shining Path (SL)
+NPA,Armed Assault,Firearms,1012,New People's Army (NPA)
+FARC,Bombing,Explosives,888,Revolutionary Armed Forces of Colombia (FARC)
+Boko Haram,Bombing,Explosives,834,Boko Haram
+Boko Haram,Armed Assault,Firearms,806,Boko Haram
+PKK,Armed Assault,Firearms,776,Kurdistan Workers' Party (PKK)

@@ -1,0 +1,31 @@
+gname,targtype1_txt,counts,full_name
+Taliban,Police,2534,Taliban
+ISIL,Citizens,2240,Islamic State of Iraq and the Levant (ISIL)
+Taliban,Military,1455,Taliban
+ISIL,Military,1454,Islamic State of Iraq and the Levant (ISIL)
+Al-Shabaab,Military,1412,Al-Shabaab
+Taliban,Citizens,1405,Taliban
+FMLN,Military,1230,Farabundo Marti National Liberation Front (FMLN)
+Boko Haram,Citizens,1126,Boko Haram
+NPA,Military,994,New People's Army (NPA)
+FMLN,Utilities,923,Farabundo Marti National Liberation Front (FMLN)
+Taliban,Government,915,Taliban
+SL,Citizens,858,Shining Path (SL)
+PKK,Military,791,Kurdistan Workers' Party (PKK)
+IRA,Military,785,Irish Republican Army (IRA)
+SL,Business,739,Shining Path (SL)
+SL,Government,728,Shining Path (SL)
+ISIL,Police,654,Islamic State of Iraq and the Levant (ISIL)
+ETA,Business,645,Basque Fatherland and Freedom (ETA)
+SL,Police,613,Shining Path (SL)
+Al-Shabaab,Citizens,594,Al-Shabaab
+FDN,Military,578,Nicaraguan Democratic Force (FDN)
+SL,Utilities,567,Shining Path (SL)
+LTTE,Military,546,Liberation Tigers of Tamil Eelam (LTTE)
+ETA,Police,546,Basque Fatherland and Freedom (ETA)
+CPI-Maoist,Citizens,535,Communist Party of India - Maoist (CPI-Maoist)
+IRA,Police,533,Irish Republican Army (IRA)
+IRA,Business,532,Irish Republican Army (IRA)
+FARC,Citizens,498,Revolutionary Armed Forces of Colombia (FARC)
+AQAP,Military,464,Al-Qaida in the Arabian Peninsula (AQAP)
+Al-Shabaab,Government,461,Al-Shabaab
